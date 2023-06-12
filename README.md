@@ -11,7 +11,7 @@
 ****
 
 ## 1. Intro
-HTML% trabaja de la mano con CSS3 para crear sitios web que usamos todos los días. Incluso este sitio web en donde estás viendo este contenido está construido con HTML y CSS.
+HTML5  trabaja de la mano con CSS3 para crear sitios web que usamos todos los días. Incluso este sitio web en donde estás viendo este contenido está construido con HTML y CSS.
 
 En este proyecto, con los conocimientos de HTML y CSS realicé la clonación de la interfaz de Google.
 
